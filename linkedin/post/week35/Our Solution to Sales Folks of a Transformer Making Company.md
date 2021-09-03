@@ -11,7 +11,7 @@ A German based Transformer manufacturer with presence over 15 countries over 150
  - Quoting to customer becomes extremely difficult for the Sales personal as they don't have system to compute breakups on the material, labour and other costs to arrive at the profit margins.
 
 ### Solution
-Custom pre-sales enquiry and Offer management to optimize the offer margin based on material, labor and other operating cost.
+Custom Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
 
 Sales projection based on pre-sales workflow. Plan delivery based on order backlogs.
 
@@ -26,7 +26,7 @@ Sales projection based on pre-sales workflow. Plan delivery based on order backl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTc4MTY0OSw2NTQwMjEzNDcsMjEyOD
+eyJoaXN0b3J5IjpbMTQ5NDUyNTM1Niw2NTQwMjEzNDcsMjEyOD
 I2MjQ3MywtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4
 NjgzXX0=
 -->
