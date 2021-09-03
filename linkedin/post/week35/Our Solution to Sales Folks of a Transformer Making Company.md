@@ -2,7 +2,7 @@
 # Our Solution to Sales Folks of a Transformer Making Company
 
 ### Client Background
-A German based Transformer manufacturer with presence over 15 countries over 1500 employees
+A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for the global customers for local industrial customers. The company is a joint venture of SGB-SMIT International GmbH and G. Radhakrishnan and T.R. Velumani.
 ### Business Challenges
 
  - Pre-Sales, Sales and Finance team operating excel mode. 
@@ -25,6 +25,7 @@ Sales projection based on pre-sales workflow. Plan delivery based on order backl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3Nj
-I0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTE3NTU4OTI3MTQsNjU0MDIxMzQ3LDIxMj
+gyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEz
+ODY4M119
 -->
