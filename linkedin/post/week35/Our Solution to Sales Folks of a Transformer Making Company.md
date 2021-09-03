@@ -13,8 +13,7 @@ The operations manager used to have long Tuesdays as he has to submit the weekly
 ### Solution
 [LMNAs](https://lmnas.com) provide comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
 We have tailored the standard Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
-We have streamlined the workflow of Pre-Sales, Sales,
-Sales projection based on pre-sales workflow. Plan delivery based on order backlogs.
+We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero mSales projection based on pre-sales workflow. Plan delivery based on order backlogs.
 
 ### Business Value
  - 45% more offer closure. 
@@ -27,7 +26,7 @@ Sales projection based on pre-sales workflow. Plan delivery based on order backl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMTAxMjYzLDE0OTQ1MjUzNTYsNjU0MD
-IxMzQ3LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1
-NywtMTI5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTEyNTMzNjY2NjcsMTQ5NDUyNTM1Niw2NT
+QwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC0yMDM3MjU1
+MjU3LC0xMjk3MTM4NjgzXX0=
 -->
