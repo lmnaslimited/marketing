@@ -11,9 +11,9 @@ The operations manager used to have long Tuesdays as he has to submit the weekly
  - Quoting to customer becomes extremely difficult for the Sales personal as they don't have system to compute breakups on the material, labour and other costs to arrive at the profit margins.
 
 ### Solution
-[LMNAs](https://lmnas.com) provide comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
+[LMNAs](https://lmnas.com) provides comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
 We have tailored the standard Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
-We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero mSales projection based on pre-sales workflow. Plan delivery based on order backlogs.
+We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero manual errors. Sales projection are now  based on the LERP workflow. rder backlogs.
 
 ### Business Value
  - 45% more offer closure. 
@@ -26,7 +26,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMzNjY2NjcsMTQ5NDUyNTM1Niw2NT
+eyJoaXN0b3J5IjpbLTEzOTQ3MzU3MTIsMTQ5NDUyNTM1Niw2NT
 QwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC0yMDM3MjU1
 MjU3LC0xMjk3MTM4NjgzXX0=
 -->
