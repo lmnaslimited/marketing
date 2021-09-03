@@ -6,8 +6,8 @@ A German based Transformer manufacturer with presence over 15 countries over 150
 ### Business Challenges
 
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
- - Pre-Sales, Sales and Finance team aoperating excel mode. 
- - Finance team having a separate system for auditing. 
+ - Pre-Sales, Sales and Finance team are still operating in excels and other manual ways to handle their sales pipeline.
+ - Finance team need maually feedhaving a separate system for auditing. 
  - Not able to get exact reports on the Opportunity,
 
 ### Solution
@@ -26,7 +26,7 @@ Sales projection based on pre-sales workflow. Plan delivery based on order backl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc1NjQ5NjUsNjU0MDIxMzQ3LDIxMj
-gyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEz
-ODY4M119
+eyJoaXN0b3J5IjpbLTUwMTk0NDM3Miw2NTQwMjEzNDcsMjEyOD
+I2MjQ3MywtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4
+NjgzXX0=
 -->
