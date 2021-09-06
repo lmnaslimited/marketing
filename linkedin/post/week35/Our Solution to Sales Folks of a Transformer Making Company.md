@@ -17,7 +17,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 #### Implemented Functionalities
 
  - Master Data
-	 - Customer wit
+	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
+	 - 
 
 ### Business Value
  - 45% more offer closure. 
@@ -30,7 +31,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIwNTI2MzUsMTkzOTMxNzYwOCwxND
-k0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4
-NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2ODNdfQ==
+eyJoaXN0b3J5IjpbNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5ND
+UyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcw
+LC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
 -->
