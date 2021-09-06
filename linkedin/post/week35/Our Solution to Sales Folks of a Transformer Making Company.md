@@ -14,7 +14,10 @@ The operations manager used to have long Tuesdays as he has to submit the weekly
 [LMNAs](https://lmnas.com) provides comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
 We have tailored the standard Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
 We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero manual errors. Sales projection are now  based on the LERP workflow. Order backlogs and delivery plans are reported through LERP reports and dashboards.
-F
+#### Implemented Functionalities
+
+ - Master Data
+	 - Customer wit
 
 ### Business Value
  - 45% more offer closure. 
@@ -27,7 +30,7 @@ F
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODM3MzgyLDE5MzkzMTc2MDgsMTQ5ND
-UyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcw
-LC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbLTE5MDIwNTI2MzUsMTkzOTMxNzYwOCwxND
+k0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4
+NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2ODNdfQ==
 -->
