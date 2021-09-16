@@ -22,7 +22,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - Item with Variants. To create variations of transformer based on its characteristics
 	 - Bill Of Material(BOM). Design the end product based on Item variant characteristics. To capture raw material cost, Labour and other operational expenses. 
  - Transactional Data
-	 - Enquiry. Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design Team)
+	 - Enquiry. Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design and Finance teams)
 	 - Offer
 	 - Sales Order
  - Reports & Dashboards
@@ -39,9 +39,9 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nz
-k5NTI2OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2MjUzOTI0
-ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMT
-I4MjYyNDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLTEyOTcx
-Mzg2ODNdfQ==
+eyJoaXN0b3J5IjpbLTgwODc5MjkzNywtOTc2MzUxNzY3LDE5NT
+AyNjI1OTAsMTc3OTk1MjY5NCwtNzkxMTEyNzIxLC0yMDgyMDE1
+MjM3LDYyNTM5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUzNTYsNj
+U0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1
+NTI1NywtMTI5NzEzODY4M119
 -->
