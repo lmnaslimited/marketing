@@ -24,8 +24,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - Enquiry
 	 - Offer
 	 - Sales Order
- - Reports
- - 
+ - Reports & Dashboards
+ - Email and Print formats
 
 ### Business Value
  - 45% more offer closure. 
@@ -38,8 +38,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzYxODkwLC0yMDgyMDE1MjM3LDYyNT
-M5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3
-LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMT
-I5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2Mj
+UzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0
+NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLT
+EyOTcxMzg2ODNdfQ==
 -->
