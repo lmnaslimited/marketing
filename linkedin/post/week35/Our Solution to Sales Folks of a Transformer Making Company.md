@@ -19,7 +19,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - Master Data
 	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
 	 - Item with Variants. To create variations of transformer based on its characteristics
-	 - 
+	 - Bill Of Material(BOM). To capture raw material cost, Labour and other operational expenses.
 
 ### Business Value
  - 45% more offer closure. 
@@ -32,8 +32,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzI1MDExOSw2MjUzOTI0ODIsMTkzOT
-MxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDcz
-LC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2ODNdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5Mz
+kzMTc2MDgsMTQ5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3
+MywtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX
+0=
 -->
