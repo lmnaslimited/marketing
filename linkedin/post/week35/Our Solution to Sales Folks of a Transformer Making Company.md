@@ -10,7 +10,7 @@ The operations manager used to have long Tuesdays as he has to submit the weekly
  - Planning and Budgeting is a tedious task as Finance team need to manually feed the Pre-Sales and Sales forecasted revenue and targets in the current ERP system for auditing. 
  - Quoting to customer becomes extremely difficult for the Sales personal as they don't have system to compute breakups on the material, labour and other costs to arrive at the profit margins.
 
-### Solution
+### Solution Highlights
 [LMNAs](https://lmnas.com) provides comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
 We have tailored the standard Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
 We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero manual errors. Sales projection are now  based on the LERP workflow. Order backlogs and delivery plans are reported through LERP reports and dashboards.
@@ -19,7 +19,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - Master Data
 	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
 	 - Item with Variants. To create variations of transformer based on its characteristics
-	 - Bill Of Material(BOM). To capture raw material cost, Labour and other operational expenses.
+	 - Bill Of Material(BOM). To capture raw material cost, Labour and other operational expenses. 
 
 ### Business Value
  - 45% more offer closure. 
@@ -32,8 +32,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzIzNDI3LC0yMDgyMDE1MjM3LDYyNT
-M5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3
-LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMT
-I5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTI5OTE2ODkwNiwtMjA4MjAxNTIzNyw2Mj
+UzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0
+NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLT
+EyOTcxMzg2ODNdfQ==
 -->
