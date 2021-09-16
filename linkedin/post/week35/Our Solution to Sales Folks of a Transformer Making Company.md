@@ -18,7 +18,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
  - Master Data
 	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
-	 - 
+	 - Item with Varin
 
 ### Business Value
  - 45% more offer closure. 
@@ -31,7 +31,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5ND
-UyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcw
-LC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbMjE4ODcwMjYzLDYyNTM5MjQ4MiwxOTM5Mz
+E3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMs
+LTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEzODY4M119
 -->
