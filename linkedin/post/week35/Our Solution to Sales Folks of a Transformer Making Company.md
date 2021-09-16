@@ -26,7 +26,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - **Offer:** Margin calculation based on BOM Raw Material, Labour, Operations and other overheads. Approval mechanism if margin falls below a threshold. Templated Terms and Conditions
 	 - **Sales Order:** Copy data from offer like price, terms and other critical data for consistency. Delivery schedules at item level. Pre-defined payment terms templates to avoid disputes.
  - **Reports & Dashboards:** Enquiry Funnel Report, Budget forecast Report, Sales Order backlog Report. Enquiry and Offer Dashboard and Role based Dashboards
- - **Email and Print formats:** Pre-defined Email formats for inter and intra team communication
+ - **Email and Print formats:** Pre-defined Email formats for inter and intra team communication. Custom Print formats for Offer to customer.
 
 ### Business Value
  - 45% more offer closure. 
@@ -39,9 +39,9 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk4MTU1OTAsLTgwODc5MjkzNywtOT
-c2MzUxNzY3LDE5NTAyNjI1OTAsMTc3OTk1MjY5NCwtNzkxMTEy
-NzIxLC0yMDgyMDE1MjM3LDYyNTM5MjQ4MiwxOTM5MzE3NjA4LD
-E0OTQ1MjUzNTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3NjI0
-ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05Nz
+YzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3
+MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMT
+Q5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4
+ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
 -->
