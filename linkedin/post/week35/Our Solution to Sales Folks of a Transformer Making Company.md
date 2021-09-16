@@ -34,17 +34,17 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
 ### Timelines
-![enter image description here](https://github.com/lmnaslimited/marketing/blob/week35/linkedin/post/week35/project-timings.png?raw=true)
+![enter image description here](https://github.com/lmnaslimited/marketing/blob/week35/linkedin/post/week35/assets/project-timings.png?raw=true)
 
 ### Testimonials
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIxMjc2NDEsMTA0NzA4NDEzMSwtMz
-MyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MTc2NywxOTUwMjYy
-NTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIzNy
-w2MjUzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAy
-MTM0NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNT
-csLTEyOTcxMzg2ODNdfQ==
+eyJoaXN0b3J5IjpbMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwND
+cwODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3
+NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLT
+IwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUy
+NTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC
+0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
 -->
