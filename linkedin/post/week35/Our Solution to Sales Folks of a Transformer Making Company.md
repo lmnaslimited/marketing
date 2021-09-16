@@ -17,10 +17,10 @@ We have tailored the standard Pre-Sales Enquiry and Offer management to optimise
 We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero manual errors. Sales projection are now  based on the LERP workflow. Order backlogs and delivery plans are reported through LERP reports and dashboards.
 #### Implemented Functionalities
 
- - Master Data
-	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
+ - **Master Data**
+	 - **Customer** with Multiple address, State an GST. This avoided customer duplicates based on GST.
 	 - Item with Variants. To create variations of transformer based on its characteristics
-	 - Bill Of Material(BOM). Design the end product based on Item variant characteristics. To capture raw material cost, Labour and other operational expenses. 
+	 - **Bill Of Material(BOM)**. Design the end product based on Item variant characteristics. To capture raw material cost, Labour and other operational expenses. 
  - Transactional Data
 	 - Enquiry: Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design and Finance teams)
 	 - Offer: Margin calculation based on BOM Raw Material, Labour, Operations and other overheads. Approval mechanism if margin falls below a threshold. Templated Terms and Conditions
@@ -39,7 +39,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzAzODYxOCwtODA4NzkyOTM3LC05Nz
+eyJoaXN0b3J5IjpbLTI1NjQxMDM0MiwtODA4NzkyOTM3LC05Nz
 YzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3
 MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMT
 Q5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4
