@@ -25,7 +25,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - Enquiry: Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design and Finance teams)
 	 - Offer: Margin calculation based on BOM Raw Material, Labour, Operations and other overheads. Approval mechanism if margin falls below a threshold. Templated Terms and Conditions
 	 - Sales Order: Copy data from offer like price, terms and other critical data for consistency. Delivery schedules at item level. Pre-defined payment terms templates to avoid disputes.
- - Reports & Dashboards: Enquiry funnel,
+ - Reports & Dashboards: Enquiry Funnel Report, Budget forecast Report, Sales Order backlog Report. Enquiry and Offer 
  - Email and Print formats
 
 ### Business Value
@@ -39,7 +39,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTc0MTk1NiwtODA4NzkyOTM3LC05Nz
+eyJoaXN0b3J5IjpbLTcyNDUzMDQ2NywtODA4NzkyOTM3LC05Nz
 YzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3
 MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMT
 Q5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4
