@@ -2,9 +2,9 @@
 # Our Solution to Sales Folks of a Transformer Making Company
 
 ### Client Background
-A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for the global customers for local industrial customers. 
+A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global customers for local industrial customers. 
 ### Business Challenges
-The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to the executives.
+The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
  - Pre-Sales, Sales and Finance team are still operating in excels and other manual ways to handle their sales pipeline.
  - Planning and Budgeting is a tedious task as Finance team need to manually feed the Pre-Sales and Sales forecasted revenue and targets in the current ERP system for auditing. 
@@ -24,7 +24,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 ### Business Value
  - 45% more offer closure. 
  - 50% effort saved in preparing reports. 
- - 0% duplications (both master data and transitional data) 
+ - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
 
 ### Testimonials
@@ -32,8 +32,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5Mz
-kzMTc2MDgsMTQ5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3
-MywtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX
-0=
+eyJoaXN0b3J5IjpbMTIxMzIzNDI3LC0yMDgyMDE1MjM3LDYyNT
+M5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3
+LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMT
+I5NzEzODY4M119
 -->
