@@ -33,15 +33,18 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - 50% effort saved in preparing reports. 
  - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
+### Timelines
+4 We
 
 ### Testimonials
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05Nz
-YzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3
-MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMT
-Q5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4
-ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbMTM5OTc1MDIxNywtMzMyODM3Mjc4LC04MD
+g3OTI5MzcsLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2
+OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMT
+kzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYy
+NDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2OD
+NdfQ==
 -->
