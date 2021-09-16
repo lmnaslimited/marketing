@@ -23,7 +23,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - Bill Of Material(BOM). Design the end product based on Item variant characteristics. To capture raw material cost, Labour and other operational expenses. 
  - Transactional Data
 	 - Enquiry. Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design and Finance teams)
-	 - Offer. Margin calculation based on BOM Labour, Operations
+	 - Offer. Margin calculation based on BOM Raw Material, Labour, Operations and other overheads. Approval mechanism if margin falls below a threshold
 	 - Sales Order
  - Reports & Dashboards
  - Email and Print formats
@@ -39,7 +39,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDEwNzA3LC04MDg3OTI5MzcsLTk3Nj
+eyJoaXN0b3J5IjpbMzU3ODAwNzA0LC04MDg3OTI5MzcsLTk3Nj
 M1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcy
 MSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNzYwOCwxND
 k0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4
