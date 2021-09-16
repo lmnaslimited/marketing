@@ -24,7 +24,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - Transactional Data
 	 - Enquiry: Centralised enquiry management. Assign responsible person. Keeps track of important notes, dates, follow up remainders. In built communication channel to collaborate with other teams(say Design and Finance teams)
 	 - Offer: Margin calculation based on BOM Raw Material, Labour, Operations and other overheads. Approval mechanism if margin falls below a threshold. Templated Terms and Conditions
-	 - Sales Order: 
+	 - Sales Order: Copy data from offer like price, terms and other critical data for consistency. delivery schedules at item level.
  - Reports & Dashboards
  - Email and Print formats
 
@@ -39,9 +39,9 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjU2MDI3MiwtODA4NzkyOTM3LC05Nz
-YzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3
-MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMT
-Q5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4
-ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbOTg0NjU1ODE5LC04MDg3OTI5MzcsLTk3Nj
+M1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcy
+MSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNzYwOCwxND
+k0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4
+NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2ODNdfQ==
 -->
