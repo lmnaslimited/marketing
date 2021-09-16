@@ -2,7 +2,7 @@
 # Our Solution to Sales Folks of a Transformer Making Company
 
 ### Client Background
-A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global customers for local industrial customers. 
+A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global and local industrial customers. 
 ### Business Challenges
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
@@ -38,8 +38,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2Mj
-UzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0
-NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLT
-EyOTcxMzg2ODNdfQ==
+eyJoaXN0b3J5IjpbMTc3OTk1MjY5NCwtNzkxMTEyNzIxLC0yMD
+gyMDE1MjM3LDYyNTM5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUz
+NTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMj
+AzNzI1NTI1NywtMTI5NzEzODY4M119
 -->
