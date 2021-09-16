@@ -18,7 +18,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
  - Master Data
 	 - Customer with Multiple address, State an GST. This avoided customer duplicates based on GST.
-	 - Item with Varin
+	 - Item with Variants. To create variations of transformer based on its characteristics
+	 - 
 
 ### Business Value
  - 45% more offer closure. 
@@ -31,7 +32,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODcwMjYzLDYyNTM5MjQ4MiwxOTM5Mz
-E3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMs
-LTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTc3NzI1MDExOSw2MjUzOTI0ODIsMTkzOT
+MxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDcz
+LC0zNzYyNDg4NzAsLTIwMzcyNTUyNTcsLTEyOTcxMzg2ODNdfQ
+==
 -->
