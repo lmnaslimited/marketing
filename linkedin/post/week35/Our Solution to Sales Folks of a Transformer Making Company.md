@@ -5,6 +5,7 @@
 A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global and local industrial customers. 
 ### Business Challenges
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
+Same Tender 
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
  - Pre-Sales, Sales and Finance team are still operating in excels and other manual ways to handle their sales pipeline.
  - Planning and Budgeting is a tedious task as Finance team need to manually feed the Pre-Sales and Sales forecasted revenue and targets in the current ERP system for auditing. 
@@ -38,8 +39,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTk1MjY5NCwtNzkxMTEyNzIxLC0yMD
-gyMDE1MjM3LDYyNTM5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUz
-NTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMj
-AzNzI1NTI1NywtMTI5NzEzODY4M119
+eyJoaXN0b3J5IjpbLTEzOTg1MjQzOTgsMTc3OTk1MjY5NCwtNz
+kxMTEyNzIxLC0yMDgyMDE1MjM3LDYyNTM5MjQ4MiwxOTM5MzE3
+NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLT
+M3NjI0ODg3MCwtMjAzNzI1NTI1NywtMTI5NzEzODY4M119
 -->
