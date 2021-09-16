@@ -21,9 +21,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 	 - Item with Variants. To create variations of transformer based on its characteristics
 	 - Bill Of Material(BOM). Design the end product based on Item variant characteristics. To capture raw material cost, Labour and other operational expenses. 
  - Transactional Data
-	 - 
-
-
+	 - Enquiry
+	 - Offer
+	 - Sales Order
+ - Reports
+ - 
 
 ### Business Value
  - 45% more offer closure. 
@@ -36,7 +38,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNDcwOTM4LC0yMDgyMDE1MjM3LDYyNT
+eyJoaXN0b3J5IjpbNTIxNzYxODkwLC0yMDgyMDE1MjM3LDYyNT
 M5MjQ4MiwxOTM5MzE3NjA4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3
 LDIxMjgyNjI0NzMsLTM3NjI0ODg3MCwtMjAzNzI1NTI1NywtMT
 I5NzEzODY4M119
