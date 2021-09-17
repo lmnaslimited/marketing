@@ -39,12 +39,12 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 ### Testimonials
 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwND
-cwODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3
-NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLT
-IwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUy
-NTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC
-0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbLTE5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMj
+EyMTI3NjQxLDEwNDcwODQxMzEsLTMzMjgzNzI3OCwtODA4Nzky
+OTM3LC05NzYzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC
+03OTExMTI3MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5Mzkz
+MTc2MDgsMTQ5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3My
+wtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0xMjk3MTM4NjgzXX0=
+
 -->
