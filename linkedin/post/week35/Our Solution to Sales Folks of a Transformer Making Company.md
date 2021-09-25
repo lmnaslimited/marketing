@@ -30,7 +30,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 ### Business Value
  - 45% more offer closure. ![Test Image](https://iuploads.scribblecdn.net/9dadac29-32f2-4fbf-992a-11216e79aa9f/global/imagelib/365/365x365_story_45_brand_1.png?v=07112017194656)
- - 50% effort saved in preparing reports. 
+ - 50% effort saved in preparing reports. ![enter image description here](https://www.pindrop.com/wp-content/uploads/2016/05/icon-45-percent.png)
  - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
 ### Timelines
@@ -40,11 +40,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjExNzc1NDksLTE3ODg3MjA1MzcsLT
-E5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcw
-ODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3Nj
-csMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIw
-ODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUyNT
-M1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC0y
-MDM3MjU1MjU3XX0=
+eyJoaXN0b3J5IjpbLTY5ODI1NjU4MywtMTc4ODcyMDUzNywtMT
+k4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4
+NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MTc2Ny
+wxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4
+MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1Mz
+U2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIw
+MzcyNTUyNTddfQ==
 -->
