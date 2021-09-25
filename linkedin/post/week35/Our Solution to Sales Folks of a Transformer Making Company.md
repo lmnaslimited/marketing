@@ -1,12 +1,21 @@
 
 # Our Solution to Sales Folks of a Transformer Making Company
-<div class="hero-image">  
-<div class="hero-text">  
-<h1>I am John Doe</h1>  
-<p>And I'm a Photographer</p>  
-<button>Hire me</button>  
-</div>  
-</div>
+<section class="block">
+  <div class="flex flex-wrap bg-pink-50 py-5 lg:p-0">
+    <div class="flex-1">
+      <img class="rounded-full filter drop-shadow-lg p-10 h-auto w-2/3 mx-auto md:w-screen lg:h-screen lg:p-0 lg:rounded-none" src="https://picsum.photos/600/">
+    </div>
+    <div class="px-5 space-y-5 self-center text-center md:flex-1 lg:space-y-10">
+      <h1 class="text-5xl font-black tracking-wider md:text-7xl lg:text-8xl">Lorem ipsum</h1>
+      <p class="font-light leading-relaxed ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+        molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+        numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+        optio, eaque rerum!</p>
+      <button class="bg-pink-600 text-white font-bold w-48 h-12 tracking-widest">Eaque rerum</button>
+    </div>
+  </div>
+</section>
+
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
@@ -57,11 +66,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTMzMDAxLDIwNjY4MTQ1NDYsMTk1MT
-c2NjU3MCwtMjA0Mjc4NzMzNiwtMTUxMjc3OTc2Niw2NTI0MjE4
-NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMTc4ODcyMDUzNy
-wtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0
-NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MT
-c2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwt
-MjA4MjAxNTIzN119
+eyJoaXN0b3J5IjpbLTEzMTY0OTQ2MDIsLTcyOTMzMDAxLDIwNj
+Y4MTQ1NDYsMTk1MTc2NjU3MCwtMjA0Mjc4NzMzNiwtMTUxMjc3
+OTc2Niw2NTI0MjE4NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4My
+wtMTc4ODcyMDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEy
+MTIxMjc2NDEsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OT
+I5MzcsLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQs
+LTc5MTExMjcyMV19
 -->
