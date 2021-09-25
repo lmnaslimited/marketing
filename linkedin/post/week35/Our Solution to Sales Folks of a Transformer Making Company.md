@@ -8,6 +8,9 @@ A German based Transformer manufacturer with presence over 15 countries over 150
 ### Business Challenges
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
+<img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/> |
+Solarized dark             |  Solarized Ocean
+
 <img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/>
 
 
@@ -55,7 +58,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzAwNjIzOCwxOTUxNzY2NTcwLC0yMD
+eyJoaXN0b3J5IjpbLTExMzk4NjE2OSwxOTUxNzY2NTcwLC0yMD
 QyNzg3MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2
 Nzk2NywtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MT
 k1LDE3ODMxNzY4MSwtMTIxMjEyNzY0MSwxMDQ3MDg0MTMxLC0z
