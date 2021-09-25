@@ -7,7 +7,7 @@ A German based Transformer manufacturer with presence over 15 countries over 150
 <p float="left">
   <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="100" />
   <img src="https://cdn-icons-png.flaticon.com/512/1180/1180708.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3531/3531568.png" width="100" />
 </p>
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
 Different quotes from different sales person for the same Tender leading to disputes as there is no central CRM system.
@@ -47,7 +47,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTQ2NjY1NiwtMTUxMjc3OTc2Niw2NT
+eyJoaXN0b3J5IjpbMTUyMDM2ODAzNywtMTUxMjc3OTc2Niw2NT
 I0MjE4NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMTc4ODcy
 MDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2ND
 EsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3
