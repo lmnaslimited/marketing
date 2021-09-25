@@ -31,9 +31,9 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 ### Business Value
 ![enter image description here](https://github.com/lmnaslimited/marketing/blob/week35/linkedin/post/week35/assets/SGB%20Business%20value.png?raw=true)
  - 50% more offer closure. 
- - 50% effort saved in preparing reports. 
- - 0% duplications (both master data and transaction data) 
- - 100% Price consistency across the workflow
+ - Any report in under 59 Seconds. 
+ - 0% Duplications (both master data and transaction data) 
+ - 100% Consistency across the workflow
 ### Timelines
 ![enter image description here](https://github.com/lmnaslimited/marketing/blob/week35/linkedin/post/week35/assets/project-timings.png?raw=true)
 
@@ -41,11 +41,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NjU3NjM3LC02OTgyNTY1ODMsLTE3OD
-g3MjA1MzcsLTE5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3
-NjQxLDEwNDcwODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC
-05NzYzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTEx
-MTI3MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MD
-gsMTQ5NDUyNTM1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2
-MjQ4ODcwXX0=
+eyJoaXN0b3J5IjpbLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMT
+c4ODcyMDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIx
+Mjc2NDEsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5Mz
+csLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5
+MTExMjcyMSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNz
+YwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0z
+NzYyNDg4NzBdfQ==
 -->
