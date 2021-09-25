@@ -10,12 +10,8 @@ Solarized dark             |  Tedious Work
 :-------------------------:|:-------------------------:
 <img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/> |
 <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3531/3531568.png"  width="200"/> |
-**Solarized dark**             |  **Tedious Work**
-<p float="left">
-  <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="200" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1180/1180708.png" width="200" /> 
-  <img src="https://cdn-icons-png.flaticon.com/512/3531/3531568.png" width="200" />
-</p>
+**Poor CRM**             |  **M**
+
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
 Different quotes from different sales person for the same Tender leading to disputes as there is no central CRM system.
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
@@ -54,11 +50,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NjIyNjgyLDE5NTE3NjY1NzAsLTIwND
-I3ODczMzYsLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNjEzMzY3
-OTY3LC02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1MTcxOT
-UsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMz
-MjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2Mj
-U5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIwODIwMTUyMzcs
-NjI1MzkyNDgyXX0=
+eyJoaXN0b3J5IjpbMzI1Njg5NjUsMTk1MTc2NjU3MCwtMjA0Mj
+c4NzMzNiwtMTUxMjc3OTc2Niw2NTI0MjE4NDksLTE2MTMzNjc5
+NjcsLTY5ODI1NjU4MywtMTc4ODcyMDUzNywtMTk4NzUxNzE5NS
+wxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4NDEzMSwtMzMy
+ODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MTc2NywxOTUwMjYyNT
+kwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2
+MjUzOTI0ODJdfQ==
 -->
