@@ -1,5 +1,12 @@
 
 # Our Solution to Sales Folks of a Transformer Making Company
+<div class="hero-image">  
+<div class="hero-text">  
+<h1>I am John Doe</h1>  
+<p>And I'm a Photographer</p>  
+<button>Hire me</button>  
+</div>  
+</div>
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
@@ -50,11 +57,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjgxNDU0NiwxOTUxNzY2NTcwLC0yMD
-QyNzg3MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2
-Nzk2NywtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MT
-k1LDE3ODMxNzY4MSwtMTIxMjEyNzY0MSwxMDQ3MDg0MTMxLC0z
-MzI4MzcyNzgsLTgwODc5MjkzNywtOTc2MzUxNzY3LDE5NTAyNj
-I1OTAsMTc3OTk1MjY5NCwtNzkxMTEyNzIxLC0yMDgyMDE1MjM3
-LDYyNTM5MjQ4Ml19
+eyJoaXN0b3J5IjpbLTcyOTMzMDAxLDIwNjY4MTQ1NDYsMTk1MT
+c2NjU3MCwtMjA0Mjc4NzMzNiwtMTUxMjc3OTc2Niw2NTI0MjE4
+NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMTc4ODcyMDUzNy
+wtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0
+NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MT
+c2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwt
+MjA4MjAxNTIzN119
 -->
