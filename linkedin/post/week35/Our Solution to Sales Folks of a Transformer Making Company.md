@@ -8,7 +8,7 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/>
 
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) |
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
 
@@ -55,7 +55,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM2MTEzMDQsMTk1MTc2NjU3MCwtMj
+eyJoaXN0b3J5IjpbLTEwODUwMDAxOTQsMTk1MTc2NjU3MCwtMj
 A0Mjc4NzMzNiwtMTUxMjc3OTc2Niw2NTI0MjE4NDksLTE2MTMz
 Njc5NjcsLTY5ODI1NjU4MywtMTc4ODcyMDUzNywtMTk4NzUxNz
 E5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4NDEzMSwt
