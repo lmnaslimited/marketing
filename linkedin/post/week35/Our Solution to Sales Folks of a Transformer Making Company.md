@@ -1,20 +1,12 @@
 
 # Our Solution to Sales Folks of a Transformer Making Company
-<section class="block">
-  <div class="flex flex-wrap bg-pink-50 py-5 lg:p-0">
-    <div class="flex-1">
-      <img class="rounded-full filter drop-shadow-lg p-10 h-auto w-2/3 mx-auto md:w-screen lg:h-screen lg:p-0 lg:rounded-none" src="https://picsum.photos/600/">
-    </div>
-    <div class="px-5 space-y-5 self-center text-center md:flex-1 lg:space-y-10">
-      <h1 class="text-5xl font-black tracking-wider md:text-7xl lg:text-8xl">Lorem ipsum</h1>
-      <p class="font-light leading-relaxed ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-        molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-        numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-        optio, eaque rerum!</p>
-      <button class="bg-pink-600 text-white font-bold w-48 h-12 tracking-widest">Eaque rerum</button>
-    </div>
-  </div>
-</section>
+<div class="hero-image">  
+<div class="hero-text">  
+<h1>Our Solution to Sales Folks of a Transformer Making Company</h1>  
+<p>And I'm a Photographer</p>  
+<button>Hire me</button>  
+</div>  
+</div>
 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
@@ -66,11 +58,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY0OTQ2MDIsLTcyOTMzMDAxLDIwNj
-Y4MTQ1NDYsMTk1MTc2NjU3MCwtMjA0Mjc4NzMzNiwtMTUxMjc3
-OTc2Niw2NTI0MjE4NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4My
-wtMTc4ODcyMDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEy
-MTIxMjc2NDEsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OT
-I5MzcsLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQs
-LTc5MTExMjcyMV19
+eyJoaXN0b3J5IjpbNzYwMDc4MzQ3LC0xMzE2NDk0NjAyLC03Mj
+kzMzAwMSwyMDY2ODE0NTQ2LDE5NTE3NjY1NzAsLTIwNDI3ODcz
+MzYsLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNjEzMzY3OTY3LC
+02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1MTcxOTUsMTc4
+MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMzMjgzNz
+I3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2MjU5MCwx
+Nzc5OTUyNjk0XX0=
 -->
