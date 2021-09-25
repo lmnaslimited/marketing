@@ -6,11 +6,11 @@
 ### Client Background
 A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global and local industrial customers. 
 ### Business Challenges
-Solarized dark             |  T
+Solarized dark             |  Tedious Work
 :-------------------------:|:-------------------------:
 <img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/> |
 <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3531/3531568.png"  width="200"/> |
-
+**Solarized dark**             |  **Tedious Work**
 <p float="left">
   <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="200" />
   <img src="https://cdn-icons-png.flaticon.com/512/1180/1180708.png" width="200" /> 
@@ -54,11 +54,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY0NzU2MDEsMTk1MTc2NjU3MCwtMj
-A0Mjc4NzMzNiwtMTUxMjc3OTc2Niw2NTI0MjE4NDksLTE2MTMz
-Njc5NjcsLTY5ODI1NjU4MywtMTc4ODcyMDUzNywtMTk4NzUxNz
-E5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4NDEzMSwt
-MzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MTc2NywxOTUwMj
-YyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIz
-Nyw2MjUzOTI0ODJdfQ==
+eyJoaXN0b3J5IjpbMzQ4NjIyNjgyLDE5NTE3NjY1NzAsLTIwND
+I3ODczMzYsLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNjEzMzY3
+OTY3LC02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1MTcxOT
+UsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMz
+MjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2Mj
+U5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIwODIwMTUyMzcs
+NjI1MzkyNDgyXX0=
 -->
