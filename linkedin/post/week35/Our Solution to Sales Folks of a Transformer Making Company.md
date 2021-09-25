@@ -7,36 +7,7 @@
 <button>Hire me</button>  
 </div>  
 </div>
-<style>
-body, html {  
-height:  100%;  
-}  
-  
- 
-.hero-image {  
-(photographer.jpg). This will make the text easier to read */  
-background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");  
-  
 
-height:  50%;  
-  
-
-background-position:  center;  
-background-repeat:  no-repeat;  
-background-size:  cover;  
-position:  relative;  
-}  
-  
- 
-.hero-text {  
-text-align:  center;  
-position:  absolute;  
-top:  50%;  
-left:  50%;  
-transform:  translate(-50%, -50%);  
-color:  white;  
-}
-</style>
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
@@ -87,11 +58,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2NjkxNiwtMTMxNjQ5NDYwMiwtNz
-I5MzMwMDEsMjA2NjgxNDU0NiwxOTUxNzY2NTcwLC0yMDQyNzg3
-MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2Nzk2Ny
-wtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MTk1LDE3
-ODMxNzY4MSwtMTIxMjEyNzY0MSwxMDQ3MDg0MTMxLC0zMzI4Mz
-cyNzgsLTgwODc5MjkzNywtOTc2MzUxNzY3LDE5NTAyNjI1OTAs
-MTc3OTk1MjY5NF19
+eyJoaXN0b3J5IjpbNzYwMDc4MzQ3LC0xMzE2NDk0NjAyLC03Mj
+kzMzAwMSwyMDY2ODE0NTQ2LDE5NTE3NjY1NzAsLTIwNDI3ODcz
+MzYsLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNjEzMzY3OTY3LC
+02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1MTcxOTUsMTc4
+MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMzMjgzNz
+I3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2MjU5MCwx
+Nzc5OTUyNjk0XX0=
 -->
