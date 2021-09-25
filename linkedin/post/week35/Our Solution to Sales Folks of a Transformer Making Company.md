@@ -9,9 +9,9 @@ A German based Transformer manufacturer with presence over 15 countries over 150
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/> |
-Solarized dark             |  Solarized Ocean
+<img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3531/3531568.png"  width="200"/> |
 
-<img src="https://img-premium.flaticon.com/png/512/3339/premium/3339155.png?token=exp=1632583405~hmac=ec2d12966b3f180a7b0c9ee680b71228" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/>
+
 
 
 
@@ -58,11 +58,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk4NjE2OSwxOTUxNzY2NTcwLC0yMD
-QyNzg3MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2
-Nzk2NywtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MT
-k1LDE3ODMxNzY4MSwtMTIxMjEyNzY0MSwxMDQ3MDg0MTMxLC0z
-MzI4MzcyNzgsLTgwODc5MjkzNywtOTc2MzUxNzY3LDE5NTAyNj
-I1OTAsMTc3OTk1MjY5NCwtNzkxMTEyNzIxLC0yMDgyMDE1MjM3
-LDYyNTM5MjQ4Ml19
+eyJoaXN0b3J5IjpbNjkwNzAyMzgxLDE5NTE3NjY1NzAsLTIwND
+I3ODczMzYsLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNjEzMzY3
+OTY3LC02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1MTcxOT
+UsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMz
+MjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2Mj
+U5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIwODIwMTUyMzcs
+NjI1MzkyNDgyXX0=
 -->
