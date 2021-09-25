@@ -7,7 +7,7 @@
 A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global and local industrial customers. 
 ### Business Challenges
 Excel             |  Tedious Work
-:-------------------------:|:-------------------------:|
+:-------------------------:|:-------------------------:|:--
 <img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/3107/3107793.png"  width="200"/> |
 <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="200"/>|  <img src="https://cdn-icons-png.flaticon.com/512/1642/1642359.png"  width="200"/> |
 **Poor CRM**             |  **Inconsistent**
@@ -50,7 +50,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjgxNDU0NiwxOTUxNzY2NTcwLC0yMD
+eyJoaXN0b3J5IjpbLTE0ODI5NTk2NiwxOTUxNzY2NTcwLC0yMD
 QyNzg3MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2
 Nzk2NywtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MT
 k1LDE3ODMxNzY4MSwtMTIxMjEyNzY0MSwxMDQ3MDg0MTMxLC0z
