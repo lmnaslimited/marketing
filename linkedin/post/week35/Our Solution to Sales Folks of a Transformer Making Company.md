@@ -12,22 +12,22 @@ body, html {
 height:  100%;  
 }  
   
-/* The hero image */  
+ 
 .hero-image {  
-/* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */  
+(photographer.jpg). This will make the text easier to read */  
 background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");  
   
-/* Set a specific height */  
+
 height:  50%;  
   
-/* Position and center the image to scale nicely on all screens */  
+
 background-position:  center;  
 background-repeat:  no-repeat;  
 background-size:  cover;  
 position:  relative;  
 }  
   
-/* Place text in the middle of the image */  
+ 
 .hero-text {  
 text-align:  center;  
 position:  absolute;  
@@ -36,7 +36,7 @@ left:  50%;
 transform:  translate(-50%, -50%);  
 color:  white;  
 }
-<style/>
+</style>
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
@@ -87,7 +87,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTA3MTQzMSwtMTMxNjQ5NDYwMiwtNz
+eyJoaXN0b3J5IjpbLTEwNTY2NjkxNiwtMTMxNjQ5NDYwMiwtNz
 I5MzMwMDEsMjA2NjgxNDU0NiwxOTUxNzY2NTcwLC0yMDQyNzg3
 MzM2LC0xNTEyNzc5NzY2LDY1MjQyMTg0OSwtMTYxMzM2Nzk2Ny
 wtNjk4MjU2NTgzLC0xNzg4NzIwNTM3LC0xOTg3NTE3MTk1LDE3
