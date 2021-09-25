@@ -12,6 +12,7 @@ Different quotes from different sales person for the same Tender leading to disp
  - Quoting to customer becomes extremely difficult for the Sales personal as they don't have system to compute breakups on the material, labour and other costs to arrive at the profit margins.
 
 ### Solution Highlights
+
 [LMNAs](https://lmnas.com) provides comprehensive ERP(LERP) solutions to various industries. LERP has inbuilt module exclusively for the CRM process. Most of the current customer pain areas were addressed by LERP CRM capabilities Out Of The Box.
 We have tailored the standard Pre-Sales Enquiry and Offer management to optimise the offer margin based on Bill Of Material, labor and other operational costs.
 We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Production teams which ensured zero manual errors. Sales projection are now  based on the LERP workflow. Order backlogs and delivery plans are reported through LERP reports and dashboards.
@@ -41,11 +42,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMT
-c4ODcyMDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIx
-Mjc2NDEsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5Mz
-csLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5
-MTExMjcyMSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNz
-YwOCwxNDk0NTI1MzU2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0z
-NzYyNDg4NzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjQxMjk0MjEsLTE2MTMzNjc5NjcsLT
+Y5ODI1NjU4MywtMTc4ODcyMDUzNywtMTk4NzUxNzE5NSwxNzgz
+MTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4NDEzMSwtMzMyODM3Mj
+c4LC04MDg3OTI5MzcsLTk3NjM1MTc2NywxOTUwMjYyNTkwLDE3
+Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4MjAxNTIzNyw2MjUzOT
+I0ODIsMTkzOTMxNzYwOCwxNDk0NTI1MzU2LDY1NDAyMTM0Nywy
+MTI4MjYyNDczXX0=
 -->
