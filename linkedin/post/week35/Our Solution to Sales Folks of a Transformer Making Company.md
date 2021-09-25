@@ -4,7 +4,11 @@
 ### Client Background
 A German based Transformer manufacturer with presence over 15 countries over 1500 employees. The company produces and distributes cast resin distribution transformers for their global and local industrial customers. 
 ### Business Challenges
-![enter image description here](https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b)
+<p float="left">
+  <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
 Different quotes from different sales person for the same Tender leading to disputes as there is no central CRM system.
  - The company has invested in one of the major ERP system to handle their  core manufacturing process. However the current ERP system is not providing a comprehensive solution to handle Pre-Sales and Sales. 
@@ -43,11 +47,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI3Nzk3NjYsNjUyNDIxODQ5LC0xNj
-EzMzY3OTY3LC02OTgyNTY1ODMsLTE3ODg3MjA1MzcsLTE5ODc1
-MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMz
-EsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1
-MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIwODIwMT
-UyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUyNTM1Niw2
-NTQwMjEzNDddfQ==
+eyJoaXN0b3J5IjpbLTE2NzA0MzQ2MDYsLTE1MTI3Nzk3NjYsNj
+UyNDIxODQ5LC0xNjEzMzY3OTY3LC02OTgyNTY1ODMsLTE3ODg3
+MjA1MzcsLTE5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3Nj
+QxLDEwNDcwODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05
+NzYzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMT
+I3MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgs
+MTQ5NDUyNTM1Nl19
 -->
