@@ -29,7 +29,7 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - **Email and Print formats:** Pre-defined Email formats for inter and intra team communication. Custom Print formats for Offer to customer.
 
 ### Business Value
- - 45% more offer closure. ![enter image description here](https://iuploads.scribblecdn.net/9dadac29-32f2-4fbf-992a-11216e79aa9f/global/imagelib/365/365x365_story_45_brand_1.png?v=07112017194656)
+ - 45% more offer closure. ![Test Image](https://iuploads.scribblecdn.net/9dadac29-32f2-4fbf-992a-11216e79aa9f/global/imagelib/365/365x365_story_45_brand_1.png?v=07112017194656)
  - 50% effort saved in preparing reports. 
  - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
@@ -40,11 +40,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg3MjA1MzcsLTE5ODc1MTcxOTUsMT
-c4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcwODQxMzEsLTMzMjgz
-NzI3OCwtODA4NzkyOTM3LC05NzYzNTE3NjcsMTk1MDI2MjU5MC
-wxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIwODIwMTUyMzcsNjI1
-MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUyNTM1Niw2NTQwMjEzND
-csMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC0yMDM3MjU1MjU3LC0x
-Mjk3MTM4NjgzXX0=
+eyJoaXN0b3J5IjpbLTEzMjExNzc1NDksLTE3ODg3MjA1MzcsLT
+E5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3NjQxLDEwNDcw
+ODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05NzYzNTE3Nj
+csMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMTI3MjEsLTIw
+ODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgsMTQ5NDUyNT
+M1Niw2NTQwMjEzNDcsMjEyODI2MjQ3MywtMzc2MjQ4ODcwLC0y
+MDM3MjU1MjU3XX0=
 -->
