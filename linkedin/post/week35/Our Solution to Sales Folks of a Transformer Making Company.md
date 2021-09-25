@@ -29,7 +29,8 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
  - **Email and Print formats:** Pre-defined Email formats for inter and intra team communication. Custom Print formats for Offer to customer.
 
 ### Business Value
- - 45% more offer closure. ![Test Image](https://iuploads.scribblecdn.net/9dadac29-32f2-4fbf-992a-11216e79aa9f/global/imagelib/365/365x365_story_45_brand_1.png?v=07112017194656)
+![enter image description here](https://github.com/lmnaslimited/marketing/blob/week35/linkedin/post/week35/assets/SGB%20Business%20value.png?raw=true)
+ - 45% more offer closure. 
  - 50% effort saved in preparing reports. ![enter image description here](https://www.pindrop.com/wp-content/uploads/2016/05/icon-45-percent.png)
  - 0% duplications (both master data and transaction data) 
  - Price consistency across the workflow
@@ -40,11 +41,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODI1NjU4MywtMTc4ODcyMDUzNywtMT
-k4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2NDEsMTA0NzA4
-NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3NjM1MTc2Ny
-wxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMjcyMSwtMjA4
-MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNzYwOCwxNDk0NTI1Mz
-U2LDY1NDAyMTM0NywyMTI4MjYyNDczLC0zNzYyNDg4NzAsLTIw
-MzcyNTUyNTddfQ==
+eyJoaXN0b3J5IjpbMTQ1NjQwMDM1MSwtNjk4MjU2NTgzLC0xNz
+g4NzIwNTM3LC0xOTg3NTE3MTk1LDE3ODMxNzY4MSwtMTIxMjEy
+NzY0MSwxMDQ3MDg0MTMxLC0zMzI4MzcyNzgsLTgwODc5MjkzNy
+wtOTc2MzUxNzY3LDE5NTAyNjI1OTAsMTc3OTk1MjY5NCwtNzkx
+MTEyNzIxLC0yMDgyMDE1MjM3LDYyNTM5MjQ4MiwxOTM5MzE3Nj
+A4LDE0OTQ1MjUzNTYsNjU0MDIxMzQ3LDIxMjgyNjI0NzMsLTM3
+NjI0ODg3MF19
 -->
