@@ -6,7 +6,7 @@ A German based Transformer manufacturer with presence over 15 countries over 150
 ### Business Challenges
 <p float="left">
   <img src="https://img-premium.flaticon.com/png/512/4176/premium/4176976.png?token=exp=1632582905~hmac=0bbd0c290006aed48934baf9c0434b5b" width="100" />
-  <img src="/img2.png" width="100" /> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1180/1180708.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
 The operations manager used to have long Tuesdays as he has to submit the weekly sales-pipeline, order-backlog and other budgetary reports to his senior executives.
@@ -47,11 +47,11 @@ We have streamlined the workflow of Pre-Sales, Sales, Design, Finance, and Produ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA0MzQ2MDYsLTE1MTI3Nzk3NjYsNj
-UyNDIxODQ5LC0xNjEzMzY3OTY3LC02OTgyNTY1ODMsLTE3ODg3
-MjA1MzcsLTE5ODc1MTcxOTUsMTc4MzE3NjgxLC0xMjEyMTI3Nj
-QxLDEwNDcwODQxMzEsLTMzMjgzNzI3OCwtODA4NzkyOTM3LC05
-NzYzNTE3NjcsMTk1MDI2MjU5MCwxNzc5OTUyNjk0LC03OTExMT
-I3MjEsLTIwODIwMTUyMzcsNjI1MzkyNDgyLDE5MzkzMTc2MDgs
-MTQ5NDUyNTM1Nl19
+eyJoaXN0b3J5IjpbLTQzNTQ2NjY1NiwtMTUxMjc3OTc2Niw2NT
+I0MjE4NDksLTE2MTMzNjc5NjcsLTY5ODI1NjU4MywtMTc4ODcy
+MDUzNywtMTk4NzUxNzE5NSwxNzgzMTc2ODEsLTEyMTIxMjc2ND
+EsMTA0NzA4NDEzMSwtMzMyODM3Mjc4LC04MDg3OTI5MzcsLTk3
+NjM1MTc2NywxOTUwMjYyNTkwLDE3Nzk5NTI2OTQsLTc5MTExMj
+cyMSwtMjA4MjAxNTIzNyw2MjUzOTI0ODIsMTkzOTMxNzYwOCwx
+NDk0NTI1MzU2XX0=
 -->
